@@ -15,3 +15,5 @@ This repository serves as a centralized resource for learning about the tools, t
 ## Introduction
 
 The tech industry is rapidly evolving, and roles like Cloud Engineer, Security Engineer, DevSecOps Engineer, and DevOps Engineer require a deep understanding of various tools and technologies. This repository aims to simplify the learning process by consolidating key information in one place.
+
+making minor chnage 
